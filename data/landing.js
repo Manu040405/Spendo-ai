@@ -7,6 +7,11 @@ import {
   Zap,
 } from "lucide-react";
 
+// Import testimonial images
+import ananyaImage from './65.jpg';
+import davidImage from './66.jpg';
+import isabellaImage from './67.jpg';
+
 // Stats Data
 export const statsData = [
   {
@@ -89,26 +94,26 @@ export const howItWorksData = [
   },
 ];
 
-// Testimonials Data
+// Testimonials Data with imported images
 export const testimonialsData = [
   {
     name: "Ananya Verma",
     role: "Tech Entrepreneur",
-    image: "https://randomuser.me/api/portraits/women/65.jpg",
+    image: ananyaImage,
     quote:
       "Spendo has been a game-changer for my personal and business finances. It's simple, powerful, and keeps everything organized.",
   },
   {
     name: "David Osei",
     role: "Remote Consultant",
-    image: "https://randomuser.me/api/portraits/men/65.jpg",
+    image: davidImage,
     quote:
       "Thanks to Spendo, managing receipts and expenses while traveling is no longer a headache. It saves me hours every month.",
   },
   {
     name: "Isabella Martínez",
     role: "Investment Strategist",
-    image: "https://randomuser.me/api/portraits/women/66.jpg",
+    image: isabellaImage,
     quote:
       "I love how Spendo brings all my accounts together and helps me stay on top of my goals without the complexity of traditional tools.",
   },
