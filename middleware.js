@@ -11,7 +11,7 @@ const aj = arcjet({
   key: process.env.ARCJET_KEY || "",
   rules: [
     shield({
-      mode: "TVF",
+      mode: "LIVE",
     }),
     detectBot({
       mode: "LIVE",
