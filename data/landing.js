@@ -19,7 +19,7 @@ export const statsData = [
     label: "Global Users",
   },
   {
-    value: "$35B+",
+    value: "₹2.9T+",
     label: "Transactions Managed",
   },
   {
