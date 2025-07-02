@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SPENDO-AI
 
-## Getting Started
+**Empowering Smarter Finances Through AI Innovation**
 
-First, run the development server:
+![Last Commit](https://img.shields.io/badge/last%20commit-june-brightblue)
+![Language](https://img.shields.io/badge/javascript-96.4%25-blue)
+![Languages Used](https://img.shields.io/badge/languages-2-lightgrey)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Built with the tools and technologies:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![JSON](https://img.shields.io/badge/-JSON-black)
+![Markdown](https://img.shields.io/badge/-Markdown-black)
+![Resend](https://img.shields.io/badge/-Resend-black)
+![npm](https://img.shields.io/badge/-npm-red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748)
+![Zod](https://img.shields.io/badge/-Zod-4C51BF)
+![ESLint](https://img.shields.io/badge/-ESLint-563D7C)
+![date-fns](https://img.shields.io/badge/-datefns-pink)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC407A)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📑 Table of Contents
 
-To learn more about Next.js, take a look at the following resources:
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📌 Overview
 
-## Deploy on Vercel
+SPENDO-AI is a smart finance platform that leverages AI to optimize spending habits, manage budgets, and provide actionable insights for personal financial growth.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language**: JavaScript  
+- **Package Manager**: Npm
+
+---
+
+### 🔧 Installation
+
+Build Spendo-ai from the source and install dependencies:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Manu040405/Spendo-ai
+2. **Navigate to the project directory:**
+   ```bash
+    cd Spendo-ai
+
+3.**Install the dependencies:**
+
+Using npm:
+
+bash
+Copy
+Edit
+npm install
+💻 **Usage**
+Run the project with:
+
+Using npm:
+
+bash
+Copy
+Edit
+npm start
+🧪 **Testing**
+Spendo-ai uses the {test_framework} test framework. Run the test suite with:
+
+Using npm:
+
+bash
+Copy
+Edit
+npm test
+🔼 Return to Top
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want this as an actual `.md` file download or if you’d like me t
