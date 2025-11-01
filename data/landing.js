@@ -97,21 +97,21 @@ export const howItWorksData = [
 // Testimonials Data with imported images
 export const testimonialsData = [
   {
-    name: "Ananya Verma",
+    name: "Dhruv",
     role: "Tech Entrepreneur",
     image: ananyaImage,
     quote:
       "Spendo has been a game-changer for my personal and business finances. It's simple, powerful, and keeps everything organized.",
   },
   {
-    name: "David Osei",
+    name: "Arjun",
     role: "Remote Consultant",
     image: davidImage,
     quote:
       "Thanks to Spendo, managing receipts and expenses while traveling is no longer a headache. It saves me hours every month.",
   },
   {
-    name: "Isabella Martínez",
+    name: "Saanvi",
     role: "Investment Strategist",
     image: isabellaImage,
     quote:
