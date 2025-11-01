@@ -13,6 +13,8 @@ import davidImage from './66.jpg';
 import isabellaImage from './67.jpg';
 
 // Stats Data
+export const statsData = [
+];
 
 // Features Data
 export const featuresData = [
