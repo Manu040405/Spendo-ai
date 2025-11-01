@@ -97,7 +97,7 @@ export const howItWorksData = [
 // Testimonials Data with imported images
 export const testimonialsData = [
   {
-    name: "Dhruv",
+    name: "Dhruvi",
     role: "Tech Entrepreneur",
     image: ananyaImage,
     quote:
