@@ -13,24 +13,6 @@ import davidImage from './66.jpg';
 import isabellaImage from './67.jpg';
 
 // Stats Data
-export const statsData = [
-  {
-    value: "750K+",
-    label: "Global Users",
-  },
-  {
-    value: "₹2.9T+",
-    label: "Transactions Managed",
-  },
-  {
-    value: "99.99%",
-    label: "System Reliability",
-  },
-  {
-    value: "4.95/5",
-    label: "Customer Satisfaction",
-  },
-];
 
 // Features Data
 export const featuresData = [
